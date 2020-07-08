@@ -120,7 +120,28 @@ namespace Counter
         {
             if (e.KeyCode == Keys.Enter)
             {
+                Number_of_questions_textbox.Focus();
+                e.Handled = true;
+                e.SuppressKeyPress = true;
+            }
+
+        }
+
+        private void Number_of_questions_textbox_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
                 Load_button_Click(this, new EventArgs());
+                e.Handled = true;
+                e.SuppressKeyPress = true;
+            }
+        }
+
+        private void Load_value_textbox_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                Max_score_textbox.Focus();
                 e.Handled = true;
                 e.SuppressKeyPress = true;
             }

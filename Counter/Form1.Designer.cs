@@ -105,6 +105,7 @@
             this.Load_value_textbox.Size = new System.Drawing.Size(100, 20);
             this.Load_value_textbox.TabIndex = 5;
             this.Load_value_textbox.TextChanged += new System.EventHandler(this.Load_value_TextChanged);
+            this.Load_value_textbox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Load_value_textbox_KeyDown);
             // 
             // label1
             // 
@@ -130,6 +131,7 @@
             this.Number_of_questions_textbox.Name = "Number_of_questions_textbox";
             this.Number_of_questions_textbox.Size = new System.Drawing.Size(100, 20);
             this.Number_of_questions_textbox.TabIndex = 8;
+            this.Number_of_questions_textbox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Number_of_questions_textbox_KeyDown);
             // 
             // Max_score_textbox
             // 
