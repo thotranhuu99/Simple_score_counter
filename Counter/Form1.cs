@@ -14,7 +14,7 @@ namespace Counter
     {
         uint Correct_answer = 0;
         double Max_score = 10;
-        uint Number_of_questions = 10;
+        uint Number_of_questions = 100;
 
         public Form1()
         {
@@ -100,11 +100,10 @@ namespace Counter
                 {
 
                 }
-
-                Count_down.Enabled = true;
-                Count_up_button.Enabled = true;
-                Clear_button.Enabled = true;
             }
+            Count_down.Enabled = true;
+            Count_up_button.Enabled = true;
+            Clear_button.Enabled = true;
         }
 
         private void Load_value_TextChanged(object sender, EventArgs e)

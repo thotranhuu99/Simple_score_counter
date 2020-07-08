@@ -51,7 +51,6 @@
             // 
             // Count_up_button
             // 
-            this.Count_up_button.Enabled = false;
             this.Count_up_button.Location = new System.Drawing.Point(34, 26);
             this.Count_up_button.Name = "Count_up_button";
             this.Count_up_button.Size = new System.Drawing.Size(80, 41);
@@ -62,7 +61,6 @@
             // 
             // Count_down
             // 
-            this.Count_down.Enabled = false;
             this.Count_down.Location = new System.Drawing.Point(34, 98);
             this.Count_down.Name = "Count_down";
             this.Count_down.Size = new System.Drawing.Size(80, 41);
@@ -73,7 +71,6 @@
             // 
             // Clear_button
             // 
-            this.Clear_button.Enabled = false;
             this.Clear_button.Location = new System.Drawing.Point(34, 167);
             this.Clear_button.Name = "Clear_button";
             this.Clear_button.Size = new System.Drawing.Size(80, 41);
@@ -113,29 +110,29 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(183, 38);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(69, 13);
+            this.label1.Size = new System.Drawing.Size(75, 13);
             this.label1.TabIndex = 6;
-            this.label1.Text = "Số câu đúng";
+            this.label1.Text = "Số câu đúng :";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(143, 25);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(112, 13);
+            this.label2.Size = new System.Drawing.Size(118, 13);
             this.label2.TabIndex = 7;
-            this.label2.Text = "Số câu đúng ban đầu";
+            this.label2.Text = "Số câu đúng ban đầu :";
             // 
             // Number_of_questions_textbox
             // 
-            this.Number_of_questions_textbox.Location = new System.Drawing.Point(146, 131);
+            this.Number_of_questions_textbox.Location = new System.Drawing.Point(146, 201);
             this.Number_of_questions_textbox.Name = "Number_of_questions_textbox";
             this.Number_of_questions_textbox.Size = new System.Drawing.Size(100, 20);
             this.Number_of_questions_textbox.TabIndex = 8;
             // 
             // Max_score_textbox
             // 
-            this.Max_score_textbox.Location = new System.Drawing.Point(146, 200);
+            this.Max_score_textbox.Location = new System.Drawing.Point(146, 130);
             this.Max_score_textbox.Name = "Max_score_textbox";
             this.Max_score_textbox.Size = new System.Drawing.Size(100, 20);
             this.Max_score_textbox.TabIndex = 9;
@@ -145,29 +142,29 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(143, 97);
+            this.label3.Location = new System.Drawing.Point(143, 167);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(67, 13);
+            this.label3.Size = new System.Drawing.Size(73, 13);
             this.label3.TabIndex = 10;
-            this.label3.Text = "Tổng số câu";
+            this.label3.Text = "Tổng số câu :";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(143, 168);
+            this.label4.Location = new System.Drawing.Point(143, 98);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(61, 13);
+            this.label4.Size = new System.Drawing.Size(67, 13);
             this.label4.TabIndex = 11;
-            this.label4.Text = "Điểm tối đa";
+            this.label4.Text = "Điểm tối đa :";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(183, 133);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(31, 13);
+            this.label5.Size = new System.Drawing.Size(37, 13);
             this.label5.TabIndex = 13;
-            this.label5.Text = "Điểm";
+            this.label5.Text = "Điểm :";
             // 
             // Point_value_textbox
             // 
@@ -212,7 +209,7 @@
             // 
             // Error_message
             // 
-            this.Error_message.Location = new System.Drawing.Point(6, 161);
+            this.Error_message.Location = new System.Drawing.Point(22, 160);
             this.Error_message.Name = "Error_message";
             this.Error_message.ReadOnly = true;
             this.Error_message.Size = new System.Drawing.Size(100, 20);
