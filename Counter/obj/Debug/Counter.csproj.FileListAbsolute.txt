@@ -1,0 +1,10 @@
+C:\Users\thotr\Documents\Visual_Studio_Project\Counter\Counter\Counter\bin\Debug\Counter.exe.config
+C:\Users\thotr\Documents\Visual_Studio_Project\Counter\Counter\Counter\bin\Debug\Counter.exe
+C:\Users\thotr\Documents\Visual_Studio_Project\Counter\Counter\Counter\bin\Debug\Counter.pdb
+C:\Users\thotr\Documents\Visual_Studio_Project\Counter\Counter\Counter\obj\Debug\Counter.csprojAssemblyReference.cache
+C:\Users\thotr\Documents\Visual_Studio_Project\Counter\Counter\Counter\obj\Debug\Counter.Form1.resources
+C:\Users\thotr\Documents\Visual_Studio_Project\Counter\Counter\Counter\obj\Debug\Counter.Properties.Resources.resources
+C:\Users\thotr\Documents\Visual_Studio_Project\Counter\Counter\Counter\obj\Debug\Counter.csproj.GenerateResource.cache
+C:\Users\thotr\Documents\Visual_Studio_Project\Counter\Counter\Counter\obj\Debug\Counter.csproj.CoreCompileInputs.cache
+C:\Users\thotr\Documents\Visual_Studio_Project\Counter\Counter\Counter\obj\Debug\Counter.exe
+C:\Users\thotr\Documents\Visual_Studio_Project\Counter\Counter\Counter\obj\Debug\Counter.pdb
