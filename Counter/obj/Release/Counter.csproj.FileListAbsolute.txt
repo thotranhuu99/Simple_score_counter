@@ -7,3 +7,4 @@ C:\Users\thotr\Documents\Visual_Studio_Project\Counter\Counter\Counter\obj\Relea
 C:\Users\thotr\Documents\Visual_Studio_Project\Counter\Counter\Counter\obj\Release\Counter.csproj.CoreCompileInputs.cache
 C:\Users\thotr\Documents\Visual_Studio_Project\Counter\Counter\Counter\obj\Release\Counter.exe
 C:\Users\thotr\Documents\Visual_Studio_Project\Counter\Counter\Counter\obj\Release\Counter.pdb
+C:\Users\thotr\Documents\Visual_Studio_Project\Counter\Counter\Counter\obj\Release\Counter.csprojAssemblyReference.cache

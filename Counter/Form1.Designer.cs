@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.Count_up_button = new System.Windows.Forms.Button();
             this.Count_down = new System.Windows.Forms.Button();
             this.Clear_button = new System.Windows.Forms.Button();
@@ -222,6 +223,7 @@
             this.ClientSize = new System.Drawing.Size(670, 300);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Tính điểm";
             this.groupBox1.ResumeLayout(false);
